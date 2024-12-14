@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/RecyclerView-Image-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RickAndMorty-API-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tab-Layout-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Travel-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TugasBottomNavigation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TugasRecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UTS/Retrofit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UTS/Room" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UTS/SharedPrefrencesNotif" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UTS/TugasTabLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UTS/UTS_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UTS/presensi_project" vcs="Git" />
+  </component>
+</project>
